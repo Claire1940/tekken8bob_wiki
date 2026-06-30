@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "TEKKEN 8 Bob Wiki - Release, Moves & Combos",
+      "description": "TEKKEN 8 Bob Wiki covers Bob release date, early access, moves, Spinner Ball stance, Heat tools, combos, punishers, matchup tips, and DLC updates.",
+      "keywords": "TEKKEN 8 Bob, Bob release date, Bob moves, Bob combos, Bob Heat, Bob DLC, Spinner Ball",
+      "ogTitle": "TEKKEN 8 Bob Wiki - Release, Moves & Combos",
+      "ogDescription": "TEKKEN 8 Bob Wiki covers Bob release date, early access, moves, Spinner Ball stance, Heat tools, combos, punishers, matchup tips, and DLC updates.",
+      "twitterTitle": "TEKKEN 8 Bob Wiki - Release, Moves & Combos",
+      "twitterDescription": "TEKKEN 8 Bob Wiki covers Bob release date, early access, moves, combos, and DLC updates."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
+    "badge": "Speed & Weight 3D Fighter DLC",
+    "title": "TEKKEN 8 Bob Wiki",
+    "description": "Track Bob's TEKKEN 8 DLC release, early access, Freestyle Karate style, Spinner Ball stance, Heat tools, combos, punishers, and matchup notes.",
+    "getFreeCodesCTA": "View Bob Guide",
     "playOnSteamCTA": "Play on Steam",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "Aug 25, 2026",
+        "label": "Bob Release Date"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "Aug 20, 2026",
+        "label": "Early Access"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "4",
+        "label": "Season 3 Fighters"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "74% Positive",
+        "label": "Recent Steam Reviews"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
+    "title": "Ready to Master Bob in TEKKEN 8?",
+    "description": "Join the TEKKEN community on Discord for frame data, combo labs, matchup discussions, and the latest Season 3 Bob updates.",
     "joinCommunity": "Join Discord",
     "joinGame": "Play on Steam"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "TEKKEN 8 Bob Wiki",
+    "description": "Your complete resource hub for Bob in TEKKEN 8 — release dates, early access, moves, Spinner Ball stance, Heat tools, combos, punishers, and matchup guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "reddit": "Reddit",
+    "youtube": "YouTube",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 TEKKEN 8 Bob Wiki. Not affiliated with Bandai Namco Entertainment.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
