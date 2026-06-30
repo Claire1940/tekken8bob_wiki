@@ -10,7 +10,13 @@
       "twitterDescription": "TEKKEN 8 Bob Wiki covers Bob release date, early access, moves, combos, and DLC updates."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "guide": "Guide",
+    "gameplay": "Gameplay",
+    "trailer": "Trailer",
+    "combo": "Combo"
+  },
   "common": {
     "home": "Home",
     "more": "More",

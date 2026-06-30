@@ -1,1 +1,690 @@
-{}
+{
+  "en": {
+    "combo": [
+      {
+        "slug": "tekken-8-bob-combo",
+        "file": "tekken-8-bob-combo"
+      },
+      {
+        "slug": "tekken-8-bob-combos",
+        "file": "tekken-8-bob-combos"
+      }
+    ],
+    "gameplay": [
+      {
+        "slug": "tekken-8-bob-analysis",
+        "file": "tekken-8-bob-analysis"
+      },
+      {
+        "slug": "tekken-8-bob-breakdown",
+        "file": "tekken-8-bob-breakdown"
+      },
+      {
+        "slug": "tekken-8-bob-comparison",
+        "file": "tekken-8-bob-comparison"
+      },
+      {
+        "slug": "tekken-8-bob-first-impressions",
+        "file": "tekken-8-bob-first-impressions"
+      },
+      {
+        "slug": "tekken-8-bob-first-look",
+        "file": "tekken-8-bob-first-look"
+      },
+      {
+        "slug": "tekken-8-bob-gameplay-trailer",
+        "file": "tekken-8-bob-gameplay-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-gameplay",
+        "file": "tekken-8-bob-gameplay"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "tekken-8-bob-beginner-guide",
+        "file": "tekken-8-bob-beginner-guide"
+      },
+      {
+        "slug": "tekken-8-bob-controls",
+        "file": "tekken-8-bob-controls"
+      },
+      {
+        "slug": "tekken-8-bob-fighting-style",
+        "file": "tekken-8-bob-fighting-style"
+      },
+      {
+        "slug": "tekken-8-bob-guide",
+        "file": "tekken-8-bob-guide"
+      },
+      {
+        "slug": "tekken-8-bob-how-to-play",
+        "file": "tekken-8-bob-how-to-play"
+      },
+      {
+        "slug": "tekken-8-bob-keys",
+        "file": "tekken-8-bob-keys"
+      },
+      {
+        "slug": "tekken-8-bob-movelist",
+        "file": "tekken-8-bob-movelist"
+      },
+      {
+        "slug": "tekken-8-bob-moves",
+        "file": "tekken-8-bob-moves"
+      },
+      {
+        "slug": "tekken-8-bob-secret-moves",
+        "file": "tekken-8-bob-secret-moves"
+      },
+      {
+        "slug": "tekken-8-bob-tips",
+        "file": "tekken-8-bob-tips"
+      }
+    ],
+    "release": [
+      {
+        "slug": "tekken-8-bob-dlc",
+        "file": "tekken-8-bob-dlc"
+      },
+      {
+        "slug": "tekken-8-bob-does-tekken-8-have-bob",
+        "file": "tekken-8-bob-does-tekken-8-have-bob"
+      },
+      {
+        "slug": "tekken-8-bob-early-access",
+        "file": "tekken-8-bob-early-access"
+      },
+      {
+        "slug": "tekken-8-bob-is-bob-in-tekken-8",
+        "file": "tekken-8-bob-is-bob-in-tekken-8"
+      },
+      {
+        "slug": "tekken-8-bob-not-in-tekken-8",
+        "file": "tekken-8-bob-not-in-tekken-8"
+      },
+      {
+        "slug": "tekken-8-bob-release-date",
+        "file": "tekken-8-bob-release-date"
+      },
+      {
+        "slug": "tekken-8-bob-release",
+        "file": "tekken-8-bob-release"
+      },
+      {
+        "slug": "tekken-8-bob-season-2",
+        "file": "tekken-8-bob-season-2"
+      },
+      {
+        "slug": "tekken-8-bob-season-3",
+        "file": "tekken-8-bob-season-3"
+      },
+      {
+        "slug": "tekken-8-bob-unlock",
+        "file": "tekken-8-bob-unlock"
+      },
+      {
+        "slug": "tekken-8-bob-when-does-bob-come-out",
+        "file": "tekken-8-bob-when-does-bob-come-out"
+      },
+      {
+        "slug": "tekken-8-bob-when-is-bob-released",
+        "file": "tekken-8-bob-when-is-bob-released"
+      },
+      {
+        "slug": "tekken-8-bob-when-is-bob-trailer",
+        "file": "tekken-8-bob-when-is-bob-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-where-is-bob",
+        "file": "tekken-8-bob-where-is-bob"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "tekken-8-bob-crowd-reaction",
+        "file": "tekken-8-bob-crowd-reaction"
+      },
+      {
+        "slug": "tekken-8-bob-official-trailer",
+        "file": "tekken-8-bob-official-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-reaction",
+        "file": "tekken-8-bob-reaction"
+      },
+      {
+        "slug": "tekken-8-bob-reveal-trailer",
+        "file": "tekken-8-bob-reveal-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-reveal",
+        "file": "tekken-8-bob-reveal"
+      },
+      {
+        "slug": "tekken-8-bob-trailer-reaction",
+        "file": "tekken-8-bob-trailer-reaction"
+      },
+      {
+        "slug": "tekken-8-bob-trailer",
+        "file": "tekken-8-bob-trailer"
+      }
+    ]
+  },
+  "es": {
+    "combo": [
+      {
+        "slug": "tekken-8-bob-combo",
+        "file": "tekken-8-bob-combo"
+      },
+      {
+        "slug": "tekken-8-bob-combos",
+        "file": "tekken-8-bob-combos"
+      }
+    ],
+    "gameplay": [
+      {
+        "slug": "tekken-8-bob-analysis",
+        "file": "tekken-8-bob-analysis"
+      },
+      {
+        "slug": "tekken-8-bob-breakdown",
+        "file": "tekken-8-bob-breakdown"
+      },
+      {
+        "slug": "tekken-8-bob-comparison",
+        "file": "tekken-8-bob-comparison"
+      },
+      {
+        "slug": "tekken-8-bob-first-impressions",
+        "file": "tekken-8-bob-first-impressions"
+      },
+      {
+        "slug": "tekken-8-bob-first-look",
+        "file": "tekken-8-bob-first-look"
+      },
+      {
+        "slug": "tekken-8-bob-gameplay-trailer",
+        "file": "tekken-8-bob-gameplay-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-gameplay",
+        "file": "tekken-8-bob-gameplay"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "tekken-8-bob-beginner-guide",
+        "file": "tekken-8-bob-beginner-guide"
+      },
+      {
+        "slug": "tekken-8-bob-controls",
+        "file": "tekken-8-bob-controls"
+      },
+      {
+        "slug": "tekken-8-bob-fighting-style",
+        "file": "tekken-8-bob-fighting-style"
+      },
+      {
+        "slug": "tekken-8-bob-guide",
+        "file": "tekken-8-bob-guide"
+      },
+      {
+        "slug": "tekken-8-bob-how-to-play",
+        "file": "tekken-8-bob-how-to-play"
+      },
+      {
+        "slug": "tekken-8-bob-keys",
+        "file": "tekken-8-bob-keys"
+      },
+      {
+        "slug": "tekken-8-bob-movelist",
+        "file": "tekken-8-bob-movelist"
+      },
+      {
+        "slug": "tekken-8-bob-moves",
+        "file": "tekken-8-bob-moves"
+      },
+      {
+        "slug": "tekken-8-bob-secret-moves",
+        "file": "tekken-8-bob-secret-moves"
+      },
+      {
+        "slug": "tekken-8-bob-tips",
+        "file": "tekken-8-bob-tips"
+      }
+    ],
+    "release": [
+      {
+        "slug": "tekken-8-bob-dlc",
+        "file": "tekken-8-bob-dlc"
+      },
+      {
+        "slug": "tekken-8-bob-does-tekken-8-have-bob",
+        "file": "tekken-8-bob-does-tekken-8-have-bob"
+      },
+      {
+        "slug": "tekken-8-bob-early-access",
+        "file": "tekken-8-bob-early-access"
+      },
+      {
+        "slug": "tekken-8-bob-is-bob-in-tekken-8",
+        "file": "tekken-8-bob-is-bob-in-tekken-8"
+      },
+      {
+        "slug": "tekken-8-bob-not-in-tekken-8",
+        "file": "tekken-8-bob-not-in-tekken-8"
+      },
+      {
+        "slug": "tekken-8-bob-release-date",
+        "file": "tekken-8-bob-release-date"
+      },
+      {
+        "slug": "tekken-8-bob-release",
+        "file": "tekken-8-bob-release"
+      },
+      {
+        "slug": "tekken-8-bob-season-2",
+        "file": "tekken-8-bob-season-2"
+      },
+      {
+        "slug": "tekken-8-bob-season-3",
+        "file": "tekken-8-bob-season-3"
+      },
+      {
+        "slug": "tekken-8-bob-unlock",
+        "file": "tekken-8-bob-unlock"
+      },
+      {
+        "slug": "tekken-8-bob-when-does-bob-come-out",
+        "file": "tekken-8-bob-when-does-bob-come-out"
+      },
+      {
+        "slug": "tekken-8-bob-when-is-bob-released",
+        "file": "tekken-8-bob-when-is-bob-released"
+      },
+      {
+        "slug": "tekken-8-bob-when-is-bob-trailer",
+        "file": "tekken-8-bob-when-is-bob-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-where-is-bob",
+        "file": "tekken-8-bob-where-is-bob"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "tekken-8-bob-crowd-reaction",
+        "file": "tekken-8-bob-crowd-reaction"
+      },
+      {
+        "slug": "tekken-8-bob-official-trailer",
+        "file": "tekken-8-bob-official-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-reaction",
+        "file": "tekken-8-bob-reaction"
+      },
+      {
+        "slug": "tekken-8-bob-reveal-trailer",
+        "file": "tekken-8-bob-reveal-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-reveal",
+        "file": "tekken-8-bob-reveal"
+      },
+      {
+        "slug": "tekken-8-bob-trailer-reaction",
+        "file": "tekken-8-bob-trailer-reaction"
+      },
+      {
+        "slug": "tekken-8-bob-trailer",
+        "file": "tekken-8-bob-trailer"
+      }
+    ]
+  },
+  "ja": {
+    "combo": [
+      {
+        "slug": "tekken-8-bob-combo",
+        "file": "tekken-8-bob-combo"
+      },
+      {
+        "slug": "tekken-8-bob-combos",
+        "file": "tekken-8-bob-combos"
+      }
+    ],
+    "gameplay": [
+      {
+        "slug": "tekken-8-bob-analysis",
+        "file": "tekken-8-bob-analysis"
+      },
+      {
+        "slug": "tekken-8-bob-breakdown",
+        "file": "tekken-8-bob-breakdown"
+      },
+      {
+        "slug": "tekken-8-bob-comparison",
+        "file": "tekken-8-bob-comparison"
+      },
+      {
+        "slug": "tekken-8-bob-first-impressions",
+        "file": "tekken-8-bob-first-impressions"
+      },
+      {
+        "slug": "tekken-8-bob-first-look",
+        "file": "tekken-8-bob-first-look"
+      },
+      {
+        "slug": "tekken-8-bob-gameplay-trailer",
+        "file": "tekken-8-bob-gameplay-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-gameplay",
+        "file": "tekken-8-bob-gameplay"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "tekken-8-bob-beginner-guide",
+        "file": "tekken-8-bob-beginner-guide"
+      },
+      {
+        "slug": "tekken-8-bob-controls",
+        "file": "tekken-8-bob-controls"
+      },
+      {
+        "slug": "tekken-8-bob-fighting-style",
+        "file": "tekken-8-bob-fighting-style"
+      },
+      {
+        "slug": "tekken-8-bob-guide",
+        "file": "tekken-8-bob-guide"
+      },
+      {
+        "slug": "tekken-8-bob-how-to-play",
+        "file": "tekken-8-bob-how-to-play"
+      },
+      {
+        "slug": "tekken-8-bob-keys",
+        "file": "tekken-8-bob-keys"
+      },
+      {
+        "slug": "tekken-8-bob-movelist",
+        "file": "tekken-8-bob-movelist"
+      },
+      {
+        "slug": "tekken-8-bob-moves",
+        "file": "tekken-8-bob-moves"
+      },
+      {
+        "slug": "tekken-8-bob-secret-moves",
+        "file": "tekken-8-bob-secret-moves"
+      },
+      {
+        "slug": "tekken-8-bob-tips",
+        "file": "tekken-8-bob-tips"
+      }
+    ],
+    "release": [
+      {
+        "slug": "tekken-8-bob-dlc",
+        "file": "tekken-8-bob-dlc"
+      },
+      {
+        "slug": "tekken-8-bob-does-tekken-8-have-bob",
+        "file": "tekken-8-bob-does-tekken-8-have-bob"
+      },
+      {
+        "slug": "tekken-8-bob-early-access",
+        "file": "tekken-8-bob-early-access"
+      },
+      {
+        "slug": "tekken-8-bob-is-bob-in-tekken-8",
+        "file": "tekken-8-bob-is-bob-in-tekken-8"
+      },
+      {
+        "slug": "tekken-8-bob-not-in-tekken-8",
+        "file": "tekken-8-bob-not-in-tekken-8"
+      },
+      {
+        "slug": "tekken-8-bob-release-date",
+        "file": "tekken-8-bob-release-date"
+      },
+      {
+        "slug": "tekken-8-bob-release",
+        "file": "tekken-8-bob-release"
+      },
+      {
+        "slug": "tekken-8-bob-season-2",
+        "file": "tekken-8-bob-season-2"
+      },
+      {
+        "slug": "tekken-8-bob-season-3",
+        "file": "tekken-8-bob-season-3"
+      },
+      {
+        "slug": "tekken-8-bob-unlock",
+        "file": "tekken-8-bob-unlock"
+      },
+      {
+        "slug": "tekken-8-bob-when-does-bob-come-out",
+        "file": "tekken-8-bob-when-does-bob-come-out"
+      },
+      {
+        "slug": "tekken-8-bob-when-is-bob-released",
+        "file": "tekken-8-bob-when-is-bob-released"
+      },
+      {
+        "slug": "tekken-8-bob-when-is-bob-trailer",
+        "file": "tekken-8-bob-when-is-bob-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-where-is-bob",
+        "file": "tekken-8-bob-where-is-bob"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "tekken-8-bob-crowd-reaction",
+        "file": "tekken-8-bob-crowd-reaction"
+      },
+      {
+        "slug": "tekken-8-bob-official-trailer",
+        "file": "tekken-8-bob-official-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-reaction",
+        "file": "tekken-8-bob-reaction"
+      },
+      {
+        "slug": "tekken-8-bob-reveal-trailer",
+        "file": "tekken-8-bob-reveal-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-reveal",
+        "file": "tekken-8-bob-reveal"
+      },
+      {
+        "slug": "tekken-8-bob-trailer-reaction",
+        "file": "tekken-8-bob-trailer-reaction"
+      },
+      {
+        "slug": "tekken-8-bob-trailer",
+        "file": "tekken-8-bob-trailer"
+      }
+    ]
+  },
+  "ko": {
+    "combo": [
+      {
+        "slug": "tekken-8-bob-combo",
+        "file": "tekken-8-bob-combo"
+      },
+      {
+        "slug": "tekken-8-bob-combos",
+        "file": "tekken-8-bob-combos"
+      }
+    ],
+    "gameplay": [
+      {
+        "slug": "tekken-8-bob-analysis",
+        "file": "tekken-8-bob-analysis"
+      },
+      {
+        "slug": "tekken-8-bob-breakdown",
+        "file": "tekken-8-bob-breakdown"
+      },
+      {
+        "slug": "tekken-8-bob-comparison",
+        "file": "tekken-8-bob-comparison"
+      },
+      {
+        "slug": "tekken-8-bob-first-impressions",
+        "file": "tekken-8-bob-first-impressions"
+      },
+      {
+        "slug": "tekken-8-bob-first-look",
+        "file": "tekken-8-bob-first-look"
+      },
+      {
+        "slug": "tekken-8-bob-gameplay-trailer",
+        "file": "tekken-8-bob-gameplay-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-gameplay",
+        "file": "tekken-8-bob-gameplay"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "tekken-8-bob-beginner-guide",
+        "file": "tekken-8-bob-beginner-guide"
+      },
+      {
+        "slug": "tekken-8-bob-controls",
+        "file": "tekken-8-bob-controls"
+      },
+      {
+        "slug": "tekken-8-bob-fighting-style",
+        "file": "tekken-8-bob-fighting-style"
+      },
+      {
+        "slug": "tekken-8-bob-guide",
+        "file": "tekken-8-bob-guide"
+      },
+      {
+        "slug": "tekken-8-bob-how-to-play",
+        "file": "tekken-8-bob-how-to-play"
+      },
+      {
+        "slug": "tekken-8-bob-keys",
+        "file": "tekken-8-bob-keys"
+      },
+      {
+        "slug": "tekken-8-bob-movelist",
+        "file": "tekken-8-bob-movelist"
+      },
+      {
+        "slug": "tekken-8-bob-moves",
+        "file": "tekken-8-bob-moves"
+      },
+      {
+        "slug": "tekken-8-bob-secret-moves",
+        "file": "tekken-8-bob-secret-moves"
+      },
+      {
+        "slug": "tekken-8-bob-tips",
+        "file": "tekken-8-bob-tips"
+      }
+    ],
+    "release": [
+      {
+        "slug": "tekken-8-bob-dlc",
+        "file": "tekken-8-bob-dlc"
+      },
+      {
+        "slug": "tekken-8-bob-does-tekken-8-have-bob",
+        "file": "tekken-8-bob-does-tekken-8-have-bob"
+      },
+      {
+        "slug": "tekken-8-bob-early-access",
+        "file": "tekken-8-bob-early-access"
+      },
+      {
+        "slug": "tekken-8-bob-is-bob-in-tekken-8",
+        "file": "tekken-8-bob-is-bob-in-tekken-8"
+      },
+      {
+        "slug": "tekken-8-bob-not-in-tekken-8",
+        "file": "tekken-8-bob-not-in-tekken-8"
+      },
+      {
+        "slug": "tekken-8-bob-release-date",
+        "file": "tekken-8-bob-release-date"
+      },
+      {
+        "slug": "tekken-8-bob-release",
+        "file": "tekken-8-bob-release"
+      },
+      {
+        "slug": "tekken-8-bob-season-2",
+        "file": "tekken-8-bob-season-2"
+      },
+      {
+        "slug": "tekken-8-bob-season-3",
+        "file": "tekken-8-bob-season-3"
+      },
+      {
+        "slug": "tekken-8-bob-unlock",
+        "file": "tekken-8-bob-unlock"
+      },
+      {
+        "slug": "tekken-8-bob-when-does-bob-come-out",
+        "file": "tekken-8-bob-when-does-bob-come-out"
+      },
+      {
+        "slug": "tekken-8-bob-when-is-bob-released",
+        "file": "tekken-8-bob-when-is-bob-released"
+      },
+      {
+        "slug": "tekken-8-bob-when-is-bob-trailer",
+        "file": "tekken-8-bob-when-is-bob-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-where-is-bob",
+        "file": "tekken-8-bob-where-is-bob"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "tekken-8-bob-crowd-reaction",
+        "file": "tekken-8-bob-crowd-reaction"
+      },
+      {
+        "slug": "tekken-8-bob-official-trailer",
+        "file": "tekken-8-bob-official-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-reaction",
+        "file": "tekken-8-bob-reaction"
+      },
+      {
+        "slug": "tekken-8-bob-reveal-trailer",
+        "file": "tekken-8-bob-reveal-trailer"
+      },
+      {
+        "slug": "tekken-8-bob-reveal",
+        "file": "tekken-8-bob-reveal"
+      },
+      {
+        "slug": "tekken-8-bob-trailer-reaction",
+        "file": "tekken-8-bob-trailer-reaction"
+      },
+      {
+        "slug": "tekken-8-bob-trailer",
+        "file": "tekken-8-bob-trailer"
+      }
+    ]
+  }
+}

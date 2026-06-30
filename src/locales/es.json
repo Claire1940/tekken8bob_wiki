@@ -1,1 +1,9 @@
-{}
+{
+  "nav": {
+    "release": "Lanzamiento",
+    "guide": "Guía",
+    "gameplay": "Jugabilidad",
+    "trailer": "Tráiler",
+    "combo": "Combo"
+  }
+}

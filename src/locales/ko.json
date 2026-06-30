@@ -1,1 +1,9 @@
-{}
+{
+  "nav": {
+    "release": "출시",
+    "guide": "가이드",
+    "gameplay": "게임플레이",
+    "trailer": "트레일러",
+    "combo": "콤보"
+  }
+}

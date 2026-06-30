@@ -1,0 +1,188 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Consejos para Bob en Tekken 8: Domina la guía meta de Velocidad y Peso",
+  description: "Domina a Bob en Tekken 8 con consejos de expertos sobre su estilo de Velocidad y Peso, posturas de Spinner Ball, just-frames de Heat Smash y estrategias de lanzamiento del DLC de la Temporada 3.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Bob+Meta+Guide",
+  date: "2026-06-30",
+  author: "Equipo de la Wiki de Tekken 8 Bob"
+}
+
+<Callout type="info" title="Guía rápida">
+- **Consejos para Bob en Tekken 8**: Concéntrate en su identidad única de **Velocidad y Peso** (Speed & Weight) para abrumar a los oponentes con ataques ágiles y contundentes.
+- **Calendario de lanzamiento**: El acceso anticipado para los poseedores del Pase de la Temporada 3 comienza el **20 de agosto de 2026**, con el lanzamiento general el **25 de agosto de 2026**.
+- **Mecánica principal**: Utiliza la postura **Spinner Ball** para presiones con mix-ups y extensiones de combos aéreos.
+- **Estrategia avanzada**: Domina el tiempo del **just-frame Heat Smash** para desbloquear el máximo daño y animaciones alternativas.
+- **Herramienta defensiva**: Usa **Giga Jacker** como un Power Crush de inicio rápido para revertir el ritmo durante la presión enemiga.
+</Callout>
+
+<Section icon={Map} title="Lanzamiento de Bob en Tekken 8 y acceso al DLC">
+
+Bob se une oficialmente al plantel de *Tekken 8* como el segundo personaje jugable de DLC de la Temporada 3. Conocido como el "Salvador del Onigiri", Bob trae una versión refinada de su Karate Freestyle a la era de Unreal Engine 5. Los jugadores que quieran empezar antes deben poseer el Pase de la Temporada 3, que otorga una ventaja de cinco días antes de que la opción de compra individual esté disponible en las tiendas digitales.
+
+**Puntos destacados del video:**
+- **Contexto de la revelación**: Debutó durante las finales de EVO 2026 en Las Vegas.
+- **Identidad de juego**: Muestra el regreso de su agilidad característica a pesar de su gran complexión.
+- **Adelanto de la historia**: Destaca su nuevo papel como investigador y su personalidad de "Salvador del Onigiri".
+
+<YouTubeEmbed videoId="Sp1BF4Ov55A" title="TEKKEN 8 – Tráiler de revelación de jugabilidad de Bob" />
+
+Las fechas de lanzamiento varían ligeramente según la región y la plataforma. A continuación se muestra el calendario confirmado para la ventana de lanzamiento de 2026:
+
+| Región | Plataforma | Acceso anticipado (Pase) | Lanzamiento general |
+| :--- | :--- | :--- | :--- |
+| **Norteamérica** | Steam, PS5, Xbox | 19 de agosto de 2026 | 24 de agosto de 2026 |
+| **Europa / Asia** | Steam, PS5, Xbox | 20 de agosto de 2026 | 25 de agosto de 2026 |
+| **Steam Global** | PC | 20 de agosto de 2026 | 25 de agosto de 2026 |
+
+<Callout type="warning" title="Nota de compra">
+Si ya posees el **Pase de la Temporada 3 de Tekken 8**, no compres el DLC individual de Bob. El personaje se desbloqueará automáticamente en tu plantel en la fecha de acceso anticipado. El DLC individual está destinado únicamente a los jugadores que no deseen adquirir el plantel completo de la Temporada 3.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Identidad principal: El sistema de Velocidad y Peso">
+
+El estilo de lucha de Bob, **Karate Freestyle**, se basa en una paradoja: posee el peso de un personaje de cuerpo pesado, pero los datos de fotogramas (frame data) y la velocidad de movimiento de un luchador mucho más ligero. En *Tekken 8*, esta identidad se enfatiza a través de un mejor control en el suelo y el dominio a media distancia. Dominar los **consejos para Bob en Tekken 8** comienza por comprender cómo equilibrar estos dos extremos.
+
+Bob destaca a la hora de "responder" al oponente. Aunque la ejecución de sus castigos puede ser exigente, su capacidad para convertir un bloqueo defensivo en un contraataque demoledor es de primer nivel. Su nueva mecánica "Perfect Body" actúa como una inversión de ataque versátil, lo que le permite pillar desprevenidos a los oponentes agresivos.
+
+| Atributo | Perfil | Impacto en el juego |
+| :--- | :--- | :--- |
+| **Alcance** | Media distancia | Domina el espacio justo fuera del alcance del jab. |
+| **Movimiento** | Alta agilidad | Sorprendente velocidad de paso lateral (sidestep) y carrera (dash) para su tamaño. |
+| **Poder** | Golpeador pesado | Alto daño bruto en contraataques (counter-hits) de un solo golpe. |
+| **Dificultad** | Intermedio | Requiere una buena coordinación para los just-frames y las posturas. |
+
+<Callout type="tip" title="Consejo profesional">
+Usa el tamaño de Bob a tu favor durante los pasos laterales. Su caja de colisión (hurtbox) más ancha puede ser una desventaja, pero su movimiento ágil le permite crear enormes oportunidades de castigo por fallo (whiff-punish) que los personajes más pequeños podrían perder.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Dominio de posturas: Spinner Ball y United Step">
+
+El núcleo de la presión ofensiva de Bob reside en sus dos posturas principales: **Spinner Ball** y **United Step**. En *Tekken 8*, estas posturas se han ampliado para integrarse a la perfección con el sistema Heat, proporcionando más formas de abrir la defensa de un oponente.
+
+<CardGrid cols={2}>
+  <Card title="United Step (US)">
+    - **Propósito**: Presión a corta distancia y mix-ups.
+    - **Movimientos clave**: Langue Washer (golpe bajo de control) y Cutting Coppa (medio de gran daño).
+    - **Estrategia**: Usa US para restringir el movimiento del oponente y obligarlo a adivinar entre opciones altas y bajas.
+  </Card>
+  <Card title="Spinner Ball (SB)">
+    - **Propósito**: Extensiones de combos y reducción de distancia.
+    - **Movimientos clave**: Roulette Cutter y la nueva transición a Heat Engager.
+    - **Estrategia**: SB ahora se puede usar en el aire durante los combos, lo que aumenta significativamente el potencial de transporte a la pared (wall-carry) de Bob.
+  </Card>
+</CardGrid>
+
+Para usar estas posturas de manera efectiva, debes aprender las transiciones desde sus golpes básicos (pokes). Bob puede pasar a Spinner Ball desde un ataque bajo específico, creando un "flujo" que hace que su ofensiva se sienta implacable.
+
+<Callout type="success" title="Nuevo movimiento: Onigiri Bomber">
+El "Onigiri Bomber" es un nuevo movimiento con nombre en *Tekken 8* que se conecta con la historia de Bob. Sirve como una poderosa herramienta de media distancia que puede derribar a los oponentes y preparar continuaciones en el suelo.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Sistema Heat y tácticas avanzadas">
+
+La implementación de Bob en el sistema Heat de *Tekken 8* está diseñada para premiar la precisión. A diferencia de algunos personajes que simplemente pueden presionar botones a lo loco durante el Heat, los jugadores de Bob deben buscar ventanas específicas para maximizar su ventaja.
+
+<Steps>
+  <Step num="1" title="Activación del Heat">
+    Entra en Heat usando un **Heat Engager** desde la postura Spinner Ball. Esto le da a Bob una enorme ventaja de fotogramas y le permite presionar al oponente de inmediato.
+  </Step>
+  <Step num="2" title="Conversión con Heat Dash">
+    Usa el **Heat Dash** después de conectar un Engager para extender tu combo. En la Temporada 3, se ha ajustado la reducción de daño (scaling) del Heat Dash, así que concéntrate en un transporte estable en lugar de solo en el daño bruto.
+  </Step>
+  <Step num="3" title="Just-Frame Heat Smash">
+    El **Heat Smash** de Bob presenta una entrada única de comando preciso (just-frame). Si sincronizas perfectamente la última pulsación de botón, Bob infligirá más daño y realizará una animación alternativa más cinematográfica.
+  </Step>
+</Steps>
+
+La sincronización para el just-frame Heat Smash es crucial para el juego de alto nivel. A continuación se muestra un desglose de las recompensas por dominar este tiempo:
+
+| Tipo de Heat Smash | Multiplicador de daño | Efecto visual | Ventaja al bloquear |
+| :--- | :--- | :--- | :--- |
+| **Estándar** | 1.0x | Animación básica | Ventaja menor |
+| **Just-Frame** | 1.2x | Animación alternativa "Perfect" | Ventaja mayor |
+
+<Callout type="warning" title="Cambios de la Temporada 3">
+Ten en cuenta que en la actualización de la versión 3.00, el Heat Smash ya no provoca un impacto contra la pared (wall splat) para la mayoría de los personajes, incluido Bob. Concéntrate en usarlo como una herramienta para asegurar daño en mitad del escenario o para daño puro en lugar de presión en la pared.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Fundamentos de castigos y combos">
+
+Uno de los **consejos más esenciales para Bob en Tekken 8** es dominar sus herramientas de castigo. Bob tiene una respuesta confiable para casi cualquier error que cometa un oponente, siempre que conozcas los datos de fotogramas. Sus castigos de 10 y 12 fotogramas se encuentran entre los mejores del juego para establecer un dominio temprano.
+
+| Fotogramas | Movimiento de castigo | Uso |
+| :--- | :--- | :--- |
+| **10f** | Serie de jabs | Respuesta rápida estándar para detener la presión. |
+| **12f** | Giga Jacker | Power Crush rápido para atravesar secuencias predecibles. |
+| **15f** | Castigo de lanzamiento | Usa su lanzador principal para una conversión de combo completa. |
+| **Levantándose (WS)** | Castigo WS | Esencial para castigar ataques bajos bloqueados. |
+
+Cuando se trata de combos, la fuerza de Bob es su versatilidad. Puede elegir entre rutas básicas (bread and butter) de alto daño o secuencias complejas de transporte a la pared utilizando extensiones de Spinner Ball.
+
+**Hitos esenciales de combos:**
+- **Práctica de lanzamiento**: Domina su lanzador estándar en un transporte aéreo estable.
+- **Enlaces de Spinner Ball**: Practica la transición de golpes en el aire a Spinner Ball para aumentar la distancia de transporte (wall-carry).
+- **Remates de pared**: Usa la movilidad de Bob para reposicionar al oponente contra la pared para una máxima presión.
+
+<Callout type="tip" title="Estabilidad sobre estilo">
+La gran complexión de Bob a veces puede hacer que ciertas rutas de combos fallen contra personajes más pequeños como Xiaoyu. Prioriza siempre un combo "estable" que funcione con todo el plantel en lugar de una ruta de "daño máximo" que solo funcione con personajes grandes.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Hoja de ruta para principiantes e historia">
+
+La historia de Bob en *Tekken 8* es tan excéntrica como su estilo de lucha. Tras su éxito con una cadena de hamburgueserías y "Bob's Onigiri", se ha convertido en un héroe público en Nueva York durante la invasión de G Corp. Ahora, actuando como investigador para la Fiscalía del Distrito de Manhattan, su misión es llevar a Kazuya Mishima ante la justicia, al tiempo que proporciona ayuda alimentaria a los ciudadanos.
+
+<Checklist
+  id="bob-mastery-2026"
+  title="Lista de verificación para dominar a Bob:"
+  items={[
+    "Completa el Episodio de Personaje de Bob para desbloquear su atuendo formal de investigador.",
+    "Practica el just-frame Heat Smash hasta que puedas acertarlo el 90% de las veces.",
+    "Domina la transición de un golpe bajo a la postura Spinner Ball.",
+    "Aprende los castigos de 10f, 12f y 15f para los 10 mejores personajes del meta.",
+    "Gana 10 combates usando el título 'Salvador del Onigiri'."
+  ]}
+/>
+
+<FAQ items={[
+  {
+    question: "¿Cuándo es la fecha de lanzamiento de Bob en Tekken 8?",
+    answer: "Bob está programado para el acceso anticipado el 20 de agosto de 2026 para los poseedores del Pase de la Temporada 3, con un lanzamiento público completo el 25 de agosto de 2026."
+  },
+  {
+    question: "¿Cuál es el mejor consejo de Bob en Tekken 8 para principiantes?",
+    answer: "Concéntrate en su identidad de 'Velocidad y Peso'. No lo juegues como un tanque lento; usa sus ágiles pasos laterales y sus rápidos jabs de 10f para interrumpir a los oponentes, luego usa su peso para infligir un gran daño."
+  },
+  {
+    question: "¿Cómo se realiza el just-frame Heat Smash de Bob?",
+    answer: "Debes sincronizar perfectamente la entrada del último botón del Heat Smash con el destello visual del ataque. El éxito se indica mediante una animación alternativa y un mayor daño."
+  },
+  {
+    question: "¿Es Bob bueno para el juego de torneos en la Temporada 3?",
+    answer: "Sí, Bob es considerado un personaje muy completo y fuerte. Aunque sus castigos requieren práctica, sus herramientas de Heat y la presión de sus posturas lo convierten en una opción viable para el juego competitivo."
+  }
+]} />
+
+<Callout type="info" title="Nota final">
+Para obtener las últimas actualizaciones de datos de fotogramas y notas del parche, consulta siempre la [Página de noticias oficial de Tekken 8](https://tekken.com/news) o el [Sitio oficial de Bandai Namco](https://www.bandainamcoent.com/games/tekken-8).
+</Callout>
+
+</Section>

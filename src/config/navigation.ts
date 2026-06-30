@@ -1,3 +1,4 @@
+import { CalendarCheck, BookOpen, Gamepad2, Film, Zap } from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
 
 export interface NavigationItem {
@@ -7,8 +8,14 @@ export interface NavigationItem {
 	isContentType: boolean // 是否对应 content/ 目录
 }
 
-// 导航配置已清空（待后续 part 按新游戏内容类型重新填充）
-export const NAVIGATION_CONFIG: NavigationItem[] = []
+// TEKKEN 8 Bob 内容分类（与 content/<lang>/ 目录、关键词.json 分类一一对应）
+export const NAVIGATION_CONFIG: NavigationItem[] = [
+	{ key: 'release', path: '/release', icon: CalendarCheck, isContentType: true },
+	{ key: 'guide', path: '/guide', icon: BookOpen, isContentType: true },
+	{ key: 'gameplay', path: '/gameplay', icon: Gamepad2, isContentType: true },
+	{ key: 'trailer', path: '/trailer', icon: Film, isContentType: true },
+	{ key: 'combo', path: '/combo', icon: Zap, isContentType: true },
+]
 
 // 从配置派生内容类型列表（用于路由和内容加载）
 export const CONTENT_TYPES = NAVIGATION_CONFIG.filter((item) => item.isContentType).map(

@@ -1,0 +1,192 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Guía de Bob en Tekken 8: Movimientos, Combos y Calendario de Lanzamiento",
+  description: "Domina al Salvador del Onigiri con nuestra guía de Bob en Tekken 8. Encuentra la fecha oficial de lanzamiento, detalles de acceso anticipado, movimientos, posturas, combos y herramientas de Heat.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e3a8a/fff?text=Tekken+8+Bob+Guide",
+  date: "2026-06-30",
+  author: "Equipo de Wiki de Tekken 8 Bob",
+  keywords: "tekken 8 bob, guía de bob, movimientos de bob, combos de bob, pase de temporada 3"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Palabra clave principal**: Domina cada aspecto del Salvador del Onigiri con esta completa **guía de Bob en Tekken 8**.
+- **Mecánica clave**: Utiliza las posturas únicas de Bob, **Spinner Ball** y **United Step**, para mantener una presión implacable.
+- **Mejor estrategia**: Mezcla pokes rápidos a corta distancia con su nuevo counter de ataque **Perfect Body** para robar turnos.
+- **Consejo crítico**: Practica el timing para su **Heat Smash de marco justo (just-frame)** para maximizar el daño al final del round.
+- **Opción preferida**: Selecciona su ropa callejera casual o su traje de investigador formal para que coincida con su historia actualizada de la Temporada 3.
+</Callout>
+
+<Section icon={Map} title="Guía de Bob en Tekken 8: Fecha de Lanzamiento y Acceso DLC">
+
+Esta completa **guía de Bob en Tekken 8** detalla todo lo que necesitas saber sobre el regreso del Salvador del Onigiri en la Temporada 3. Confirmado oficialmente como el segundo personaje DLC jugable del Pase de la Temporada 3, Bob trae su característico Karate Estilo Libre de vuelta a la arena con visuales actualizados en Unreal Engine 5. Los jugadores pueden acceder a Bob a través de las tiendas regionales en PlayStation 5, Xbox Series X|S y PC vía Steam [1].
+
+**Puntos destacados del video:**
+- **Revelación en EVO 2026**: Presentado oficialmente durante los prestigiosos campeonatos de juegos de lucha EVO 2026 [2].
+- **Velocidad y Peso**: Muestra el clásico Karate Estilo Libre de Bob con visuales de alta fidelidad actualizados en Unreal Engine 5.
+- **Historia del Salvador del Onigiri**: Promueve su transición de magnate de cadenas de hamburguesas a salvador de la comunidad local [2].
+- **Lanzamiento el 19 de agosto de 2026**: Confirma la ventana de acceso anticipado de 5 días para los propietarios del Pase de Temporada 3 [2].
+
+<YouTubeEmbed videoId="Sp1BF4Ov55A" title="TEKKEN 8 – Tráiler de revelación de jugabilidad de Bob" />
+
+Dependiendo de tu plataforma y región, el calendario de lanzamiento varía ligeramente debido a los tiempos de actualización de las tiendas. Los propietarios del Pase de Temporada 3 reciben una ventana de acceso anticipado de cinco días antes de que la opción de compra de personaje independiente esté disponible globalmente [1].
+
+| Región | Plataforma | Ventana de Acceso | Método de Compra | Notas Clave |
+| :--- | :--- | :--- | :--- | :--- |
+| **Norteamérica** | PS5, Xbox, Steam | 19 ago, 2026 | Pase de Temporada 3 | 5 días de acceso anticipado |
+| **Norteamérica** | PS5, Xbox, Steam | 24 ago, 2026 | DLC Independiente | Disponible para compra individual |
+| **Europa** | PS5, Xbox, Steam | 20 ago, 2026 | Pase de Temporada 3 | Horarios de tienda regional |
+| **Europa** | PS5, Xbox, Steam | 25 ago, 2026 | DLC Independiente | Lanzamiento total para todos |
+| **Tienda Steam** | PC (Steam) | Jul-Sep 2026 | Pase Temporada 3 | Requiere juego base en Steam |
+| **PlayStation Store** | PlayStation 5 | Jul-Sep 2026 | Pase Temporada 3 | Incluye a Kunimitsu y Bob |
+| **Xbox Store** | Xbox Series X|S | Jul-Sep 2026 | Pase Temporada 3 | Se vende por separado del juego base |
+
+<Callout type="info" title="Valor del Pase de Temporada">
+El Pase de Temporada 3 de Tekken 8 incluye cuatro personajes jugables (Kunimitsu, Bob, Roger Jr. y Yujiro Hanma), el escenario de batalla SUBSEA LOCKDOWN, el Aurora Outfit Pack y 5 días de acceso anticipado para futuros luchadores DLC [1].
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Estilo de Juego para Principiantes e Identidad Central">
+
+Bob regresa con su icónica filosofía de diseño: un artista marcial de gran tamaño que posee la velocidad, agilidad y recuperación de un personaje de peso ligero [2]. Usando Karate Estilo Libre, Bob funciona como un personaje polivalente altamente flexible [1]. Destaca en enfrentamientos de corta a media distancia donde puede restringir las opciones defensivas del oponente y forzar errores de alto daño [1].
+
+Para los jugadores que eligen a Bob por primera vez, su plan de juego se basa en mantener una presión activa en el suelo [1]. Aunque algunas de sus opciones óptimas de castigo tras bloqueo requieren una ejecución precisa, sus herramientas en neutral son muy intuitivas, lo que lo convierte en un excelente personaje de nivel de entrada para jugadores que están aprendiendo el espaciado 3D [1].
+
+<Checklist
+  id="bob-beginner-goals"
+  title="Objetivos Esenciales para Principiantes:"
+  items={[
+    "Comprender su identidad de 'Velocidad y Peso' como un luchador ágil de cuerpo pesado",
+    "Enfocarse en la presión terrestre a corta y media distancia para restringir al oponente",
+    "Utilizar comandos universales estándar para lanzamientos básicos y movimientos",
+    "Incorporar Heat Burst y Heat Engagers una vez por ronda para impulsar la ofensiva",
+    "Practicar transiciones básicas de postura desde sus ataques de poke comunes"
+  ]}
+/>
+
+<Callout type="tip" title="Uso del Estilo Especial">
+Si tienes dificultades con los comandos manuales, activa el Estilo Especial de Tekken 8. Este esquema de control simplificado te ayuda a concentrarte en el espaciado, la defensa y el timing antes de pasar a practicar la lista completa de comandos [1].
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Lista de Movimientos, Posturas y Herramientas de Contraataque">
+
+El flujo de combate de Bob se basa en transiciones fluidas entre sus posturas características para mantener a los oponentes adivinando. En Tekken 8, su presión de posturas es más cohesiva que nunca, con transiciones directas desde ataques bajos y nuevas opciones que mantienen la ventaja posicional incluso cuando son bloqueadas [1].
+
+<CardGrid cols={3}>
+  <Card title="United Step (Postura)">
+    - **Ruta de presión principal**
+    - Incluye Langue Washer
+    - Incluye Cutting Coppa
+  </Card>
+  <Card title="Spinner Ball (Postura)">
+    - **Mix-up de alta velocidad**
+    - Incluye Roulette Cutter
+    - Integra extensiones aéreas
+  </Card>
+  <Card title="Herramientas de Giro (Defensa)">
+    - **Giga Jacker Power Crush**
+    - **Perfect Body Reversal**
+    - Respuestas defensivas fuertes
+  </Card>
+</CardGrid>
+
+Su utilidad defensiva también ha recibido una mejora masiva. Cuando se ve presionado contra el muro o atrapado en una cadena agresiva del oponente, Bob puede usar Giga Jacker —un Power Crush de inicio rápido— o Perfect Body, su nuevo Attack Reversal, para recuperar el impulso [1].
+
+| Nombre del Movimiento | Tipo de Movimiento | Función en Combate | Valor en el Juego |
+| :--- | :--- | :--- | :--- |
+| **Giga Jacker** | Power Crush | Golpe con armadura rápido | **Excelente** herramienta de pánico defensivo |
+| **Perfect Body** | Attack Reversal | Revierte ataques físicos entrantes | **Bueno** para robar turnos |
+| **Onigiri Bomber** | Golpe Medio | Herramienta media de golpe pesado | **Moderado** para espaciado medio |
+| **Langue Washer** | Ataque de Postura | Barrido desde United Step | **Alta** opción de mix-up de amenaza baja |
+| **Cutting Coppa** | Ataque de Postura | Golpe medio de gran daño | **Excelente** trampa de frames de presión |
+| **Roulette Cutter** | Ataque de Postura | Golpe por encima desde Spinner Ball | **Alta** utilidad de presión en bloqueo |
+
+<Callout type="warning" title="Advertencia de Ejecución">
+Aunque las herramientas de presión ofensiva de Bob son muy activas y fáciles de usar, su castigo tras bloqueo de pie requiere una ejecución estricta. No confíes únicamente en bloqueos defensivos brutos sin dominar sus herramientas de respuesta de inicio rápido [1].
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Sistema Heat y Rutas de Combo">
+
+El Sistema Heat en Tekken 8 revitaliza completamente el flujo ofensivo de Bob. Cuando el Heat está activo, Bob gana ataques de seguimiento adicionales que fortalecen su combate terrestre y mitigan sus limitaciones estándar de castigo [1]. Lo más notable es que su **Heat Smash** presenta una ventana de entrada única de marco justo (just-frame); ejecutar este movimiento con un timing preciso aumenta su daño y activa una animación cinematográfica alternativa muy teatral [1].
+
+Además, la postura expandida **Spinner Ball** ahora cuenta con un Heat Engager dedicado, lo que permite a Bob activar el Heat directamente desde sus mix-ups de postura y lanzarse inmediatamente hacia adelante con una ventaja de frames significativa [1].
+
+<Steps>
+  <Step num="1" title="Entra en Heat Agresivamente">
+    Activa el Heat usando un Heat Burst o conecta un Spinner Ball Heat Engager para avanzar con gran ventaja de frames [1].
+  </Step>
+  <Step num="2" title="Mantén la Presión de Posturas">
+    Usa las transiciones de United Step y Spinner Ball para obligar al oponente a elegir entre barridos bajos y trampas de frames medias [1].
+  </Step>
+  <Step num="3" title="Convierte con Heat Dash">
+    Al acertar, activa el Heat Dash después de un Heat Engager para extender tu ruta de combo, teniendo en cuenta las reglas de escalado de daño de la Temporada 3 [1].
+  </Step>
+  <Step num="4" title="Ejecuta el Heat Smash de Marco Justo">
+    Termina tu estado de Heat ejecutando su Heat Smash con el timing preciso para activar la animación alternativa de alto daño [1].
+  </Step>
+</Steps>
+
+| Categoría de Combo | Transición de Postura | Extensión Primaria | Dificultad de Ejecución |
+| :--- | :--- | :--- | :--- |
+| **Ruta de Lanzamiento Base** | Ninguna | Transporte aéreo estable | **Fácil** (Muy confiable) |
+| **Ruta Spinner Ball** | Spinner Ball | Extensiones de giro aéreo | **Media** (Requiere timing) |
+| **Ruta United Step** | United Step | Langue Washer/Cutting Coppa | **Media** (Presión central) |
+| **Conversión Heat Dash** | Heat Engager | Cancelación de dash en lanzamiento | **Difícil** (Reacción rápida) |
+
+<Callout type="success" title="Consejo de Timing Just-Frame">
+Practica el Heat Smash de marco justo en el modo entrenamiento. Busca el destello visual en las manos de Bob durante la animación inicial para clavar la pulsación del botón, lo que asegura el máximo daño decisivo al final de un round [1].
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Rankings del Meta y Estrategias de Enfrentamiento">
+
+En el meta de la Temporada 3, Bob se perfila como un personaje polivalente de alta presión muy competente [1]. Su capacidad para transicionar de movimientos de poder pesados a barridos de postura rápidos y engañosos lo convierte en una pesadilla para defender en distancias cortas. Sin embargo, su rendimiento está fuertemente influenciado por los ajustes de equilibrio del sistema de la Temporada 3, como la eliminación universal del wall splat en los Heat Smash para todos los personajes afectados [1].
+
+Para jugar contra Bob con éxito, los defensores deben aprender a reconocer sus opciones de postura lineales. Aunque su Spinner Ball ofrece un excelente potencial de mix-up, muchas de sus entradas pueden esquivarse lateralmente (sidestep) o interrumpirse con jabs rápidos si Bob transiciona de manera descuidada [1].
+
+| Categoría de Rendimiento | Calificación | Fortaleza Principal | Rol en el Meta |
+| :--- | :--- | :--- | :--- |
+| **Amigabilidad para Principiantes** | ★★★★☆ | Plan de juego directo | Gran luchador 3D de entrada |
+| **Utilidad de Presión** | ★★★★★ | Mix-ups basados en posturas | Domina corta y media distancia |
+| **Perfil de Movilidad** | ★★★★☆ | Pasos sorprendentemente ágiles | Movimiento engañoso para su tamaño |
+| **Herramientas Defensivas** | ★★★☆☆ | Armadura y reversal fuertes | El castigo es más difícil de ejecutar |
+| **Valor del Heat** | ★★★★★ | Heat Smash de marco justo | Enorme potencial para ganar rounds |
+
+<Callout type="info" title="Legalidad en Torneos">
+Bajo las reglas oficiales del Tekken World Tour (TWT) 2026, los personajes DLC como Bob pasan a ser legales en torneos en su fecha de lanzamiento global oficial (24/25 de agosto de 2026) [1, 2]. Están estrictamente prohibidos para su uso en torneos durante la ventana de acceso anticipado de 5 días [1].
+</Callout>
+
+<FAQ items={[
+  {
+    question: "¿Cuándo es la fecha de lanzamiento oficial de Bob en Tekken 8?",
+    answer: "Bob está programado para acceso anticipado el 19 de agosto de 2026 para los dueños del Pase de Temporada 3, con un lanzamiento general independiente el 24 de agosto de 2026 (las fechas pueden variar según la región)."
+  },
+  {
+    question: "¿Cuál es el estilo de lucha de Bob en Tekken 8?",
+    answer: "Bob utiliza Karate Estilo Libre, combinando golpes de poder pesados con movimientos extremadamente ágiles y transiciones rápidas entre posturas."
+  },
+  {
+    question: "¿Cómo se realiza el Heat Smash de alto daño de Bob?",
+    answer: "El Heat Smash de Bob tiene una entrada única de marco justo (just-frame). Presionar el botón de activación con el tiempo preciso durante la animación inicial aumenta el daño y activa una cinemática alternativa."
+  },
+  {
+    question: "¿Es legal usar a Bob en los torneos de Tekken World Tour 2026 durante el acceso anticipado?",
+    answer: "No. Según las reglas del TWT 2026, los personajes DLC solo son legales en torneos a partir de su fecha de lanzamiento general oficial, no durante la ventana de acceso anticipado."
+  }
+]} />
+
+</Section>
